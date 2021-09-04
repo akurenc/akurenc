@@ -3,8 +3,8 @@
 # Merhaba, ben Cagatay Akuren! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akurenc" alt="akurenc" /> </p>
 
-[![](https://img.shields.io/twitter/follow/mertcobanov?style=social)](https://www.twitter.com/c_akuren)
-[![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/akurenc)
+[![](https://img.shields.io/twitter/follow/c_akuren?style=social)](https://www.twitter.com/c_akuren)
+[![](https://img.shields.io/github/followers/akurenc?style=social)](https://www.github.com/akurenc)
 
 
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/c_akuren)
